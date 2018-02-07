@@ -16,3 +16,6 @@ apt-get install libusb-dev
 2b3a6613497d45d27433e7b4dccb880bacd136d7
 ### UPDATE KEY UPDATE
 wget -q -O - archive.kali.org/archive-key.asc | apt-key add
+
+## MP3 youtube-dl
+apt-get install libav-tools
