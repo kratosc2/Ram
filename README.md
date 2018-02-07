@@ -3,7 +3,7 @@
 https://tb.rg-adguard.net/public.php 
 
 
-##### idevice
+## idevice
 apt-get update
 apt-get install libtool m4 automake
 apt-get install libreadline6-dev
