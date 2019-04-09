@@ -38,7 +38,10 @@ https://www.dr.com.tr/Kitap/Kucuk-Hippias/Felsefe/Felsefe-Bilimi/urunno=00000003
 https://www.dr.com.tr/Kitap/Phaidon/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000436220
 https://www.dr.com.tr/Kitap/Politika/Aristoteles/Felsefe/Felsefe-Bilimi/urunno=0000000458037
 https://www.dr.com.tr/Kitap/Savas-Sanati/Sun-Zi/Felsefe/Bilgelik/urunno=0000000692217
-
+https://www.dr.com.tr/Kitap/Euthyphron/Felsefe/Felsefe-Bilimi/urunno=0000000352830
+https://www.dr.com.tr/Kitap/Bilinmeyen-Ogretiler/Lao-Tzu/Felsefe/Bilgelik/urunno=0000000138410
+https://www.dr.com.tr/Kitap/Menon/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000390508
+https://www.dr.com.tr/Kitap/Poetika/Hasan-Ilhan/Felsefe/Felsefe-Bilimi/urunno=0000000524773
 
 
 
