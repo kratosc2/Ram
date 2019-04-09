@@ -42,10 +42,12 @@ https://www.dr.com.tr/Kitap/Euthyphron/Felsefe/Felsefe-Bilimi/urunno=00000003528
 https://www.dr.com.tr/Kitap/Bilinmeyen-Ogretiler/Lao-Tzu/Felsefe/Bilgelik/urunno=0000000138410
 https://www.dr.com.tr/Kitap/Menon/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000390508
 https://www.dr.com.tr/Kitap/Poetika/Hasan-Ilhan/Felsefe/Felsefe-Bilimi/urunno=0000000524773
+https://www.dr.com.tr/Kitap/Sofist/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000401484
+https://www.dr.com.tr/Kitap/Platonun-Parmenides-Diyalogunun-Yorumu/Diadochos-Proklos/Felsefe/Felsefe-Bilimi/urunno=0000000509198
 
+#  Deri
 
-
-
+https://www.kumasci.com/liste/gercek-deri
 
 
 # Juno Reactor
@@ -53,6 +55,9 @@ https://www.dr.com.tr/Kitap/Poetika/Hasan-Ilhan/Felsefe/Felsefe-Bilimi/urunno=00
 
 https://www.youtube.com/watch?v=3kRlvrtdS0c
 
+## Offer Nissim First Time
+
+https://www.youtube.com/watch?v=vHUjGKOxn_U
 
 
 
