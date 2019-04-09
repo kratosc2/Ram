@@ -18,33 +18,32 @@ wget -q -O - archive.kali.org/archive-key.asc | apt-key add
 ## MP3 youtube-dl
 apt-get install libav-tools
 
+# D&R
+https://www.dr.com.tr/Kitap/Deccal/Friedrich-Wilhelm-Nietzsche/Felsefe/Felsefi-Romanlar/urunno=0000000584639
+https://www.dr.com.tr/Kitap/Platon-Sozler/Felsefe/Bilgelik/urunno=0001805241001
+https://www.dr.com.tr/Kitap/Solen-Dostluk-Hasan-Ali-Yucel-Klasikleri/Felsefe/Felsefe-Bilimi/urunno=0000000210422
+https://www.dr.com.tr/Kitap/Sokratesin-Savunmasi/Felsefe/Felsefe-Bilimi/urunno=0001802167001
+https://www.dr.com.tr/Kitap/Kratylos/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000630303
+https://www.dr.com.tr/Kitap/Solen/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000443428
+https://www.dr.com.tr/Kitap/Gorgias-Hasan-Ali-Yucel-Klasikleri/Felsefe/Felsefe-Bilimi/urunno=0000000205635
+https://www.dr.com.tr/Kitap/Uc-Inisiye/Felsefe/Felsefe-Bilimi/urunno=0001779797001
+https://www.dr.com.tr/Kitap/Retorik/Felsefe/Felsefe-Bilimi/urunno=0001781708001
+https://www.dr.com.tr/Kitap/Lakhes/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000408507
+https://www.dr.com.tr/Kitap/Ion/Felsefe/Felsefe-Bilimi/urunno=0000000345257
+https://www.dr.com.tr/Kitap/Hagakure/Felsefe/Bilgelik/urunno=0001691719001
+https://www.dr.com.tr/Kitap/Lakhes/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000408507
+https://www.dr.com.tr/Kitap/Mektuplar/Felsefe/Felsefe-Bilimi/urunno=0000000332199
+https://www.dr.com.tr/Kitap/Hipparkhos-Kleitophon-Rakipler/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000570858
+https://www.dr.com.tr/Kitap/Kucuk-Hippias/Felsefe/Felsefe-Bilimi/urunno=0000000364097
+https://www.dr.com.tr/Kitap/Phaidon/Platon/Felsefe/Felsefe-Bilimi/urunno=0000000436220
+https://www.dr.com.tr/Kitap/Politika/Aristoteles/Felsefe/Felsefe-Bilimi/urunno=0000000458037
+https://www.dr.com.tr/Kitap/Savas-Sanati/Sun-Zi/Felsefe/Bilgelik/urunno=0000000692217
 
-### Music
-https://www.youtube.com/watch?v=PtsMi4dtl1o
-https://www.youtube.com/watch?v=kynr9ZCXtkw
-https://www.youtube.com/watch?v=fyPw92sgsyY
-https://www.youtube.com/watch?v=ME1WaoCudmw
-https://www.youtube.com/watch?v=NnPe7g-RAJA
-https://www.youtube.com/watch?v=aWXumG2B_mI
-https://www.youtube.com/watch?v=wtOHNhG0EZc
-Şebnem Ferah
-https://www.youtube.com/watch?v=jdh90iEGvTI
-https://www.youtube.com/watch?v=do8tB82wC08
-https://www.youtube.com/watch?v=DRFpbOhfBr4
-https://www.youtube.com/watch?v=tXIm7Ut5nC8
-https://www.youtube.com/watch?v=RG4fzZxW1_M
-https://www.youtube.com/watch?v=MGKNf_qsvXE
-https://www.youtube.com/watch?v=fkxcnupW7Ag
-https://www.youtube.com/watch?v=WMfPtUGe0lQ
-https://www.youtube.com/watch?v=jeDBZpT7-RI
-https://www.youtube.com/watch?v=3C4S4W7GElk
-https://www.youtube.com/watch?v=Cq8uDaeeh5U
-https://www.youtube.com/watch?v=IqbZGfWV-Io
-https://www.youtube.com/watch?v=58YMgJIaT8w
-https://www.youtube.com/watch?v=2p8rFleRmd8
-https://www.youtube.com/watch?v=P7zbuPUWpdk
-https://www.youtube.com/watch?v=dQ7LJ9nYKU8
-https://www.youtube.com/watch?v=odoK04z8exU
+
+
+
+
+
 
 # Juno Reactor
 ## Traci Lords - Control (Juno Reactor Instrumental)
