@@ -50,8 +50,11 @@ https://www.kumasci.com/liste/gercek-deri
 
 # RASPBERRY
 ##Ekran
+
 https://www.direnc.net/7-inc-kapasitif-dokunmatik-lcd-1024x600-waveshare?lang=tr&h=4dc8189b&gclid=EAIaIQobChMI8ZyhgezW4QIVxKMYCh0UkgD9EAQYASABEgKfnPD_BwE
+
 ##Pİ B 3+
+
 https://www.nanokatalog.com/urun/raspberry-pi-3-board-pi-3-model-b-embedded-single-board-pc-arm-cortex-raspberry-pi-3-tek-kartli-pc?gclid=EAIaIQobChMIyfG6iOTW4QIVypTtCh2tcAkPEAQYAyABEgIDbfD_BwE
 
 
